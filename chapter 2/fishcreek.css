@@ -1,0 +1,36 @@
+/* single and block line comment */
+body{
+    background-color: #ffffff;
+    color:#003366;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    color: #aec3e3;
+    background-color: #003366;
+    text-align: center;
+}
+
+h1{
+    line-height: 200%;
+    text-indent: 1em;
+}
+h2{
+    font-size: 1.2em;
+}
+dt{
+    color: #5280c5;
+    font-size: 1.1em,bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.catagory{
+    font: bold;
+    color: #5380c5;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+footer{
+    font-size: .60em;
+    font-style: italic;
+}
